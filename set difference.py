@@ -1,0 +1,5 @@
+S1={1,2,3,4,'a'}
+S2={'a','b','c'}
+S3=S1-S2
+S3=S1.difference(S2)
+print(S3)
